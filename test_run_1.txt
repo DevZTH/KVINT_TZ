@@ -1,0 +1,143 @@
+send message:1 body: 
+{"phones": [184, 62, 9, 162, 150, 52, 125, 47, 133, 127], "correlation_id": 1557165662}
+Waiting for messages. To exit press CTRL+C
+Received message: {
+  "correlation_id": 13242421424214,
+  "status": "Complete",
+  "task_received": "2023-11-13T07:10:33.093507",
+  "from": "test_queue",
+  "to": "results",
+  "data": [
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.17577,
+      "phone": 133,
+      "cnt_att_dur": {
+        "10_sec": 8269,
+        "10_30_sec": 16393,
+        "30_sec": 75338
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59198920.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.0302,
+      "phone": 162,
+      "cnt_att_dur": {
+        "10_sec": 8205,
+        "10_30_sec": 16545,
+        "30_sec": 75250
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59045870.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 59.94503,
+      "phone": 184,
+      "cnt_att_dur": {
+        "10_sec": 8323,
+        "10_30_sec": 16452,
+        "30_sec": 75225
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 58949470.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.09068,
+      "phone": 9,
+      "cnt_att_dur": {
+        "10_sec": 8179,
+        "10_30_sec": 16477,
+        "30_sec": 75344
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59092250.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.07502,
+      "phone": 127,
+      "cnt_att_dur": {
+        "10_sec": 8330,
+        "10_30_sec": 16559,
+        "30_sec": 75111
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59084900.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.15124,
+      "phone": 52,
+      "cnt_att_dur": {
+        "10_sec": 8329,
+        "10_30_sec": 16338,
+        "30_sec": 75333
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59161470.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 60.08034,
+      "phone": 150,
+      "cnt_att_dur": {
+        "10_sec": 8141,
+        "10_30_sec": 16604,
+        "30_sec": 75255
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 59090540.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 59.98282,
+      "phone": 47,
+      "cnt_att_dur": {
+        "10_sec": 8264,
+        "10_30_sec": 16667,
+        "30_sec": 75069
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 58980880.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 59.84802,
+      "phone": 62,
+      "cnt_att_dur": {
+        "10_sec": 8298,
+        "10_30_sec": 16476,
+        "30_sec": 75226
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 58851360.0
+    },
+    {
+      "cnt_all_attempts": 100000,
+      "avg_dur_att": 59.85429,
+      "phone": 125,
+      "cnt_att_dur": {
+        "10_sec": 8328,
+        "10_30_sec": 16425,
+        "30_sec": 75247
+      },
+      "min_price_att": 0.0,
+      "max_price_att": 1200.0,
+      "sum_price_att_over_15": 58856330.0
+    }
+  ],
+  "total_duration": 10.171002268994926
+}
